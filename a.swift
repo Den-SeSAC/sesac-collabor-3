@@ -1,1 +1,1 @@
-conflict 발생
+conflict 발생 상황
