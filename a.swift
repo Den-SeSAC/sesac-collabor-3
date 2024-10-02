@@ -1,1 +1,1 @@
-Conflict!!!!
+conflict 발생
